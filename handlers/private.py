@@ -15,12 +15,14 @@ Grubunuzun sesli sohbetinde müzik çalabilirim [POYRAZ](https://t.me/Poyraz2103
 
 Beni grubunuza ekleyin ve özgürce müzik çalın!**
         """,
-        reply_markup=InlineKeyboardMarkup(
+                reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Sahibim 👑", url="https://t.me/Poyraz2103")
+                        "👑Sahibim👑", url="https://t.me/Poyraz2103")
                   ],[
+                    InlineKeyboardButton(
+                        "🎵Assistanım🎵", url="https://t.me/GoodVibeesMusic"
                     ),
                     InlineKeyboardButton(
                         "🔊 Kanalım", url="https://t.me/Fmsarkilar"
