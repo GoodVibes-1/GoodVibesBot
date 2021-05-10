@@ -1,6 +1,5 @@
 # GoodVibes 🎧 müzik botu tamamen Türkçe 
-[![POYRAZ](https://t.me/Poyraz2103)
-![GitHub repo size](https://img.shields.io/github/repo-size/edguru/devilsmusic)
+
 
 ## Not
 -Komutlar-:
